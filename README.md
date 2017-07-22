@@ -1,4 +1,4 @@
-# # Weather app for iOS #
+# Weather app for iOS #
 
 In August 2016, I had to write a small weather app as part of the hiring process when I applied for a job at Kapaza. 
 
